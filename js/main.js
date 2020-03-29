@@ -24,10 +24,10 @@ window.onload = function () {
     class Particle {
         constructor(x, y, radius, color) {
             var angle = particleNum * slice;
-            this.x = x + Math.cos(angle) * radius;
-            this.y = y + Math.sin(angle) * radius;
+            this.x = x + Math.cos(angle) * this.radius;
+            this.y = y + Math.sin(angle) * this.radius;
             this.color = color;
-            // this.radius = radius;
+            this.radius = radius;
         }
         update() {
             this.radius += -1;
