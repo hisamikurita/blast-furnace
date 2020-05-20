@@ -10,5 +10,5 @@
 * Run following commands<br>
 ```
   npm install  
-  npm run start  
+  npx gulp 
 ```
