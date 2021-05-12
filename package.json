@@ -17,7 +17,7 @@
         "postcss-flexbugs-fixes": "^4.2.0",
         "smoothscroll": "^0.4.0",
         "smoothscroll-polyfill": "^0.4.4",
-        "swiper": "^5.3.7",
+        "swiper": "^6.5.1",
         "webpack-cli": "^3.3.11",
         "youtube-iframe": "^1.0.3",
         "youtube-player": "^5.5.2"
